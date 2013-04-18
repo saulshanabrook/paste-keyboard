@@ -3,4 +3,4 @@ Some mac dialogues (password prompts) do not allow pasting into the password fie
 # How
 Running this applescript will get the clipboard contents and type each character indivually. Obviously all style will be lost. I created a Service in Automator that recieves no input and is runnable anywhere, with a "Run AppleScript" action for this script. ![Automator Screenshot](http://f.cl.ly/items/3U2s3l2k2T0Q1x1t3Y2J/Screen%20Shot%202013-01-29%20at%203.35.22%20PM.png "Automator Screenshot")
 
-EIther use this applescript, or [download the ripo](https://github.com/saulshanabrook/paste-keyboard/archive/master.zip) and run `Type Keyboard.workflow`, on a Mac it will be recongnized as a file not a folder and ask if you want to install this service.
+EIther use this applescript, or [download the repo](https://github.com/saulshanabrook/paste-keyboard/archive/master.zip) and run `Type Keyboard.workflow`, on a Mac it will be recongnized as a file not a folder and ask if you want to install this service.
